@@ -1,0 +1,188 @@
+.logo{
+  padding-left: 40px;
+  cursor: pointer;
+}
+
+.nav-item{
+  padding-left: 100px;
+}
+
+.nav-link{
+  transition: background-color 0.3s;
+  cursor: pointer;
+  font-size: 15px;
+}
+
+.nav-link:hover{
+  color: skyblue;
+}
+
+.books{
+  background-color: skyblue;
+  color: white;
+  border-radius: 20px;
+  width: 200px;
+  height: 30px;
+}
+
+.but{
+  padding-right: 90px;
+  padding-top: 0%;
+}
+
+#icon{
+  padding-right: 10px;
+}
+
+.abouts{
+  height: auto;
+  position: relative;
+  color: white;
+}
+
+.React
+{
+  height: 250px;
+  width: 130em;
+  padding-bottom: 5%;
+  }
+
+.one{
+  position: absolute;
+  size: 35px;
+  top: 25px;
+  left: 26.6%;
+ }
+
+.two{
+  position: absolute;
+  top: 70px;
+  left: 42%;
+  size: 20px;
+}
+
+.three{
+  position: absolute;
+  top: 90px;
+  left: 49%;
+}
+
+.story{
+  color: skyblue; 
+  cursor: pointer;
+ }
+
+.htext{
+  cursor: pointer;
+ }
+
+.apple{
+  display: flex;
+  cursor: pointer;
+  margin-left: 7%; 
+}
+
+.Gens{
+display: flex;
+padding-top: 5%;
+margin-left: 7%;
+}
+
+.text-container
+               {
+  flex-direction: column;
+  display: flex;
+  margin-left: 15%;
+}
+
+.textwolly{
+display: flex;
+padding-top: 5%;
+}
+
+.vision{
+flex-direction: column;    
+  display: flex;
+}
+
+#doubt{
+  color: skyblue;
+  margin-left: 25em;
+  padding-top: 18%;
+  cursor: pointer;
+}
+
+#millennia{
+  margin-left: 20em;
+  cursor: pointer;
+  }
+
+#quick{
+  display: flex;
+  margin-left: 25em;
+  }
+
+#Theme{
+  margin-left: 3%;
+  display: flex;
+}
+
+span{
+    margin-left: 27em;
+    padding-top: 2%;
+}
+
+.shape{
+background-color: skyblue;
+border-radius: 25px;
+color: white;
+padding-bottom: 2%;
+padding-top: 2%;
+height: 50px;
+width: 179px;
+}
+
+.choosing{
+  padding-top: 5%;
+  margin-left: 20%; 
+}
+
+.laboris{
+ padding-top: 6%;
+}
+
+#ullamco{
+  height: 300px;
+  width: 130em;
+  padding-bottom: 10%;
+}
+
+.meetteam{
+  padding-top: 1%;
+  margin-left: 18%;
+}
+
+.bottom{
+  padding-top: 6%;
+  margin-left: 14%;
+}
+
+
+@media screen and(max-width: 600px)
+{
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
